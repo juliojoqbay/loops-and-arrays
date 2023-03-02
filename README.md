@@ -9,7 +9,7 @@ Curso este que tive a honra de co-criar com a plataforma de cursos online <stron
 🛑 Pré-requistos
 </h2>
 
-- [x] Java JDK 11
+- [x] Java JDK 17
 - [x] IDE para desenvolvimento Java 
 - [x] Conhecer a sintaxe Java
 
